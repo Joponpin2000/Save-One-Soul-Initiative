@@ -62,3 +62,10 @@ jQuery(window).scroll(function() {
         })
     }
 })
+
+
+jQuery(".dmtop").click(function () {
+    jQuery("body, html").animate({
+        scrollTop: 0
+    }, 600);
+});
