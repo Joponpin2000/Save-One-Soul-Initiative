@@ -14,10 +14,10 @@
     width: 120px;
     height: 120px;
     margin: -75px 0 0 -75px;
-    border: 10px solid #c9c9c9;
+    border: 20px solid #c9c9c9;
     border-top: 10px solid #3498db;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
