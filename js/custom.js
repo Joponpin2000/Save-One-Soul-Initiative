@@ -51,7 +51,6 @@ Back top
 =============================================== */
 
 jQuery(window).scroll(function() {
-    var duration = 500;
     if (jQuery(this).scrollTop() > 1) {
         jQuery('.dmtop').css({
             bottom: "10px"
